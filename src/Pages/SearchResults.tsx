@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { useLocation } from 'react-router';
-import Layout from '../components/layout/Layout';
-import VideoList from '../components/video/VideoList';
-import { videos } from '../data/videos';
+import Layout from '../Components/Layout/Layout';
+import VideoList from '../Components/video/VideoList';
+import { videos } from '../Data/videos';
 import { Video } from '../types';
 
 const SearchResults: React.FC = () => {
