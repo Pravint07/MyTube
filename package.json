@@ -2,8 +2,8 @@
   "name": "web-creator",
   "version": "1.0.0",
   "scripts": {
-    "dev": "node scripts/build.mjs",
-    "build": "node scripts/build.mjs --production"
+    "dev": "vite",
+    "build": "vite build"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
