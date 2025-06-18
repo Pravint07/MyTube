@@ -5,8 +5,8 @@ import {
   DialogDescription,
   DialogHeader,
   DialogTitle,
-} from "@/components/ui/dialog";
-import { Button } from '../ui/button';
+} from "@/components/UI/dialog";
+import { Button } from '../UI/button';
 
 interface DownloadDialogProps {
   isOpen: boolean;

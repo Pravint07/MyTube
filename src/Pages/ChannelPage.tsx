@@ -14,8 +14,3 @@ const ChannelPage: React.FC = () => {
 };
 
 export default ChannelPage;
-git init
-git remote add origin https://github.com/Pravint07/MyTube
-git add .
-git commit -m "Initial commit"
-git push -u origin main

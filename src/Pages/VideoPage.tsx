@@ -9,7 +9,7 @@ import DownloadDialog from '../Components/video/DownloadDialog';
 import ShareDialog from '../Components/video/ShareDialog';
 import CommentSection from '../Components/video/CommentSection';
 import { ThumbsUp, ThumbsDown, Share2, Download, Bookmark, MoreHorizontal, Clock } from 'lucide-react';
-import { Button } from '../components/ui/button';
+import { Button } from '../Components/ui/button';
 import type { Video } from '../types';
 
 const VideoPage: React.FC = () => {

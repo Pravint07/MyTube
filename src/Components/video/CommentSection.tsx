@@ -31,7 +31,7 @@ const CommentSection: React.FC<CommentSectionProps> = ({ videoId }) => {
       id: 2,
       username: 'Username2',
       avatar: 'https://pub-cdn.wisebox.ai/u/U0BGVHO7LB/web-coder/68410fcf98a04ddfd9e97833/resource/afcace6c-faff-4d13-b59e-f96fd075f7e3.jpg',
-      content: 'This video has amazing production quality! I've been following this channel for years and the content keeps getting better.',
+      content: "This video has amazing production quality! I have been following this channel for years and the content keeps getting better.",
       timestamp: '2 days ago',
       likes: 42
     },

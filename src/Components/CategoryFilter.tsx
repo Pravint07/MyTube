@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import { categories } from '../data/videos';
+import { categories } from '../Data/videos';
 
 interface CategoryFilterProps {
   selectedCategory: string;
